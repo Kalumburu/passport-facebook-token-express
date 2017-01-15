@@ -1,0 +1,26 @@
+{
+  "name": "passport-facebook-token-express",
+  "version": "1.0.0",
+  "description": "Express server using passport-facebook-token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github23/passport-facebook-token-express.git"
+  },
+  "keywords": [
+    "passport-facebook-token",
+    "with",
+    "express",
+    "server",
+    "sample"
+  ],
+  "author": "Nadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github23/passport-facebook-token-express/issues"
+  },
+  "homepage": "https://github.com/github23/passport-facebook-token-express#readme"
+}
